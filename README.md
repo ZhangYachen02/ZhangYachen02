@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhangYachen02
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, yolov8
 - 📫 How to reach me zhangyachen@proton.me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
